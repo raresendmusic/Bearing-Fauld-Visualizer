@@ -1,7 +1,7 @@
 % Ladataan data
 load('CWRU Inner 1730 21.mat'); 
 
-% Oletetaan, että muuttujan nimi on X234_FE_time (fan end data)
+% Oletetaan, että muuttujan nimi on X212_DE_time (drive end data)
 signal = X212_DE_time;
 
 % Parametrit
